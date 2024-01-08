@@ -1,0 +1,75 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#map_container {
+  position: relative;
+}
+
+
+#map_bg {
+  width: 90vw;
+  height: auto;
+}
+
+
+.map_pin {
+  color: red;
+  width: 50%;
+  height: 50%;
+}
+
+.map_pin_btn:hover .map_pin {
+  width: 75%;
+  height: 75%;
+}
+
+.map_pin_btn {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  width: 6vw;
+  height: 6vw;
+  padding: 0;
+  margin: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.tooltip_text {
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+  bottom: 100%; 
+
+  background-color: white;
+  border-radius: 5px;
+  padding: 8px;
+  font-weight: bold;
+  
+}
+
+.tooltip_text img {
+  width: 128px;
+  height: 128px;
+  object-fit: cover;
+}
+
+.map_pin_btn:hover .tooltip_text {
+  visibility: visible;
+}
+
+.school_icon {
+  width: 32px;
+  height: 32px;
+}
