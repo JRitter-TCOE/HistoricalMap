@@ -27,10 +27,17 @@
 
       foreach ($locations as $loc) {
 
-        echo "<a href='./pdfs/{$loc->pdf}' target='_blank' class='map_pin_btn' style='top: {$loc->y}%; left: {$loc->x}%;'>
+
+        $pdf = $loc->pdf;
+        $y = $loc->y;
+        $x = $loc->x;
+        $school = $loc->school;
+        $image = $loc->image;
+
+        echo "<a href='./pdfs/{$pdf}' target='_blank' class='map_pin_btn' style='top: {$y}%; left: {$x}%;'>
           <div class='tooltip_text'>
-            <p>{$loc->school}</p>
-            <img src='./images/{$loc->image}'>
+            <p>{$school}</p>
+            <img src='./images/{$image}'>
           </div>
           <img class='map_pin' src='https://cdn0.iconfinder.com/data/icons/symbolicons-education/28/school-house-512.png'>
         </a>";
