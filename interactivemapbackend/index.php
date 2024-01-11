@@ -27,7 +27,7 @@
 
       foreach ($locations as $loc) {
 
-        echo "<a href='./pdfs/".$loc->pdf."' target='_blank' class='map_pin_btn' style='top: ."$loc->y."%; left: ".$loc->x."%;'>
+        echo "<a href='./pdfs/".$loc->pdf."' target='_blank' class='map_pin_btn' style='top: ".$loc->y."%; left: ".$loc->x."%;'>
           <div class='tooltip_text'>
             <p>".$loc->school."</p>
             <img src='./images/.".$loc->image."'>
