@@ -28,11 +28,11 @@
       foreach ($locations as $loc) {
 
 
-        $pdf = $loc->pdf;
-        $y = $loc->y;
-        $x = $loc->x;
-        $school = $loc->school;
-        $image = $loc->image;
+        $pdf = $loc["pdf"];
+        $y = $loc["y"];
+        $x = $loc["x"];
+        $school = $loc["school"];
+        $image = $loc["image"];
 
         echo "<a href='./pdfs/{$pdf}' target='_blank' class='map_pin_btn' style='top: {$y}%; left: {$x}%;'>
           <div class='tooltip_text'>
