@@ -26,7 +26,7 @@ error_reporting(E_ALL);
       
       <?php 
 
-      $file = fopen('./location.txt', 'r');
+      $file = fopen('./location.json', 'r');
       $text = fread($file, filesize('./location.json'));
       fclose($file);
 
