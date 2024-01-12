@@ -27,7 +27,7 @@ error_reporting(E_ALL);
       <?php 
 
       $file = fopen('./location.txt', 'r');
-      $text = fread($file, filesize('./location.txt'));
+      $text = fread($file, filesize('./location.json'));
       fclose($file);
 
       $locations = json_decode($text);
