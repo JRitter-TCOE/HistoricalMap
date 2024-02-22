@@ -65,6 +65,8 @@
 
 {"school":"Pinkham School", "image":"No_Image_Available.jpg", "pdf":"", "x":"65", "y":"15"},
 
+{"school":"Red Hill School District", "image":"Red Hill.png", "pdf":"Red Hill School District FINAL.pdf", "x":"44", "y":"40"},
+
 {"school":"Ruth School", "image":"Ruth.png", "pdf":"Ruth _ Mad River School FINAL.pdf", "x":"23", "y":"73"},
 
 {"school":"Salt Flat School", "image":"No_Image_Available.jpg", "pdf":"", "x":"37", "y":"59"},
@@ -79,7 +81,7 @@
 
 {"school":"Van Duzen School", "image":"Van_Duzen.png", "pdf":"Van Duzen FINAL.pdf", "x":"11", "y":"64"},
 
-{"school":"Wildwood School", "image":"Wildwood.jpg", "pdf":"", "x":"46", "y":"64"},
+{"school":"Wildwood School", "image":"Wildwood.jpg", "pdf":"Wildwood School FINAL.pdf", "x":"46", "y":"64"},
 
 {"school":"Zenia School", "image":"Zenia.png", "pdf":"Zenia School District FINAL.pdf", "x":"11", "y":"78"}
 ]
