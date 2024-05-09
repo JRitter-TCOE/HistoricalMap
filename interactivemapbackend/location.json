@@ -3,7 +3,7 @@
 
 {"school":"Blanchard Flat School", "image":"Blanchard_Flat.jpg", "pdf":"Blanchard Flat revised Final.pdf", "x":"54", "y":"49"},
 
-{"school":"Burnt Ranch School", "image":"Burnt_Ranch_School.jpg", "pdf":"", "x":"10", "y":"37"},
+{"school":"Burnt Ranch School", "image":"Burnt_Ranch_School.jpg", "pdf":"No Information.pdf", "x":"10", "y":"37"},
 
 {"school":"Canon Creek School", "image":"Canyon_Creek.jpg", "pdf":"Canon Creek School FINAL.pdf", "x":"45", "y":"33"},
 
@@ -11,7 +11,7 @@
 
 {"school":"Caution", "image":"Caution.png", "pdf":"Caution School District Final.pdf", "x":"32", "y":"89"},
 
-{"school":"Coffee Creek School", "image":"Coffee_Creek.jpg", "pdf":"", "x":"72", "y":"17"},
+{"school":"Coffee Creek School", "image":"Coffee_Creek.jpg", "pdf":"No Information.pdf", "x":"72", "y":"17"},
 
 {"school":"Covington Mill", "image":"Covington Mill.png", "pdf":"Covington School Final.pdf", "x":"67", "y":"28"},
 
@@ -23,7 +23,7 @@
 
 {"school":"Don Juan School", "image":"Don_Juan_School.jpg", "pdf":"Don Juan School Final.pdf", "x":"22", "y":"38"},
 
-{"school":"Douglas City School", "image":"Douglas_City_School.jpg", "pdf":"", "x":"53", "y":"46"},
+{"school":"Douglas City School", "image":"Douglas_City_School.jpg", "pdf":"No Information.pdf", "x":"53", "y":"46"},
 
 {"school":"Forest School", "image":"Forest_School.png", "pdf":"Forest School District Final.pdf", "x":"4", "y":"31"},
 
@@ -33,7 +33,7 @@
 
 {"school":"Hayfork High School", "image":"Hayfork_High_School.png", "pdf":"Hayfork High Final.pdf", "x":"36", "y":"54"},
 
-{"school":"Hayfork School", "image":"Hayfork_Class_Picture.jpg", "pdf":"", "x":"34", "y":"54"},
+{"school":"Hayfork School", "image":"Hayfork_Class_Picture.jpg", "pdf":"No Information.pdf", "x":"34", "y":"54"},
 
 {"school":"Hettenpome School", "image":"Hettenpome.png", "pdf":"Hettenpome_Hoaglin School District Final.pdf", "x":"26", "y":"87"},
 
@@ -41,13 +41,13 @@
 
 {"school":"Hetten Valley School", "image":"Hetten_Valley.png", "pdf":"Hetten Valley School District FINAL.pdf", "x":"19", "y":"74"},
 
-{"school":"Hyampom School", "image":"Hyampom_School.jpg", "pdf":"", "x":"13", "y":"49"},
+{"school":"Hyampom School", "image":"Hyampom_School.jpg", "pdf":"No Information.pdf", "x":"13", "y":"49"},
 
 {"school":"Indian Creek School", "image":"Indian_Creek.png", "pdf":"Indian Creek School District FINAL.pdf", "x":"58", "y":"46"},
 
 {"school":"Island Mountain School", "image":"Island_Mountain.png", "pdf":"Island Mountain School FINAL.pdf", "x":"11", "y":"85"},
 
-{"school":"Junction City School", "image":"JunctionCity.jpg", "pdf":"", "x":"45", "y":"41"},
+{"school":"Junction City School", "image":"JunctionCity.jpg", "pdf":"No Information.pdf", "x":"45", "y":"41"},
 
 {"school":"Kettenpom Valley School", "image":"Kettenpom.png", "pdf":"Kettenpom Valley Final.pdf", "x":"14", "y":"81"},
 
@@ -55,7 +55,7 @@
 
 {"school":"Lake Mountain School", "image":"Lake_Mtn.jpg", "pdf":"Lake Mountain revised FINAL.pdf", "x":"15", "y":"90"},
 
-{"school":"Lewiston School", "image":"Lewiston_School.jpg", "pdf":"", "x":"63", "y":"43"},
+{"school":"Lewiston School", "image":"Lewiston_School.jpg", "pdf":"No Information.pdf", "x":"63", "y":"43"},
 
 {"school":"Long Ridge School", "image":"Long_Ridge_School.jpg", "pdf":"Long Ridge FINAL.pdf", "x":"25", "y":"88"},
 
@@ -63,7 +63,7 @@
 
 {"school":"Peak School", "image":"Peak.png", "pdf":"Peak School District FINAL.pdf", "x":"8", "y":"80"},
 
-{"school":"Pinkham School", "image":"No_Image_Available.jpg", "pdf":"", "x":"65", "y":"15"},
+{"school":"Pinkham School", "image":"No_Image_Available.jpg", "pdf":"No Information.pdf", "x":"65", "y":"15"},
 
 {"school":"Red Hill School District", "image":"Red Hill.png", "pdf":"Red Hill School District FINAL.pdf", "x":"44", "y":"40"},
 
@@ -77,9 +77,9 @@
 
 {"school":"Southern Trinity High School", "image":"Southern_Trinity_High.png", "pdf":"Southern Trinity High School FINAL.pdf", "x":"12", "y":"63"},
 
-{"school":"Stringtown School", "image":"Stringtown.jpg", "pdf":"", "x":"74", "y":"16"},
+{"school":"Stringtown School", "image":"Stringtown.jpg", "pdf":"No Information.pdf", "x":"74", "y":"16"},
 
-{"school":"Trinity Center School", "image":"Trinity_Center_School.jpg", "pdf":"", "x":"74", "y":"22"},
+{"school":"Trinity Center School", "image":"Trinity_Center_School.jpg", "pdf":"No Information.pdf", "x":"74", "y":"22"},
 
 {"school":"Tule Creek School", "image":"No_Image_Available.jpg", "pdf":"Tule Creek FINAL.pdf", "x":"30", "y":"55"},
 
