@@ -22,7 +22,7 @@ error_reporting(E_ALL);
   <div id='container'>
     <div id='map_container'>
       <img id='map_bg' src='./Trinity County School Districts.png'>
-      <img id='map_legend'src='./District legend.png'>
+      <img id='map_legend'src='./District Legend.png'>
 
       
       <?php 
