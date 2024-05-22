@@ -24,6 +24,10 @@ error_reporting(E_ALL);
       <img id='map_bg' src='./Trinity County School Districts.png'>
       <img id='map_legend'src='./District Legend.png'>
 
+      <div id="zoom_container">
+        <button id="zoom_out">Zoom Out</button>
+        <button id="zoom_in">Zoom In</button>
+      </div>
       
       <?php 
 
