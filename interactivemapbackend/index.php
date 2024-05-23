@@ -19,15 +19,17 @@ error_reporting(E_ALL);
 
 <body>
 
+<div id="zoom_container">
+  <button id="zoom_out">Zoom Out</button>
+  <button id="zoom_in">Zoom In</button>
+</div>
+
   <div id='container'>
-    <div id='map_container'>
+    <div id='map_container' style="width: 50vw">
       <img id='map_bg' src='./Trinity County School Districts.png'>
       <img id='map_legend'src='./District Legend.png'>
 
-      <div id="zoom_container">
-        <button id="zoom_out">Zoom Out</button>
-        <button id="zoom_in">Zoom In</button>
-      </div>
+      
       
       <?php 
 
