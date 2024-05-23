@@ -25,7 +25,7 @@ error_reporting(E_ALL);
 </div>
 
   <div id='container'>
-    <div id='map_container' style="width: 50vw">
+    <div id='map_container'>
       <img id='map_bg' src='./Trinity County School Districts.png'>
       <img id='map_legend'src='./District Legend.png'>
 
@@ -62,6 +62,7 @@ error_reporting(E_ALL);
     </div>
   </div>
 
+  <script type="module" src="./script.js"></script>
   <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
   <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 
