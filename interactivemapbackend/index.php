@@ -48,8 +48,25 @@ error_reporting(E_ALL);
         $school = $loc->school;
         $image = $loc->image;
 
+        $v_align;
+        $h_align;
+
+        if ($x > 50) {
+          $h_align = "right: 100%";
+        }
+        else {
+          $h_align = "left: 100%";
+        }
+
+        if ($y > 50) {
+          $v_align = "bottom: 100%";
+        }
+        else {
+          $v_align = "top: 100%";
+        }
+
         echo "<a href='./pdfs/{$pdf}' target='_blank' class='map_pin_btn' style='top: {$y}%; left: {$x}%;'>
-          <div class='tooltip_text'>
+          <div class='tooltip_text' style="{$h_align}; {$v_align}">
             <p>{$school}</p>
             <img src='./images/{$image}'>
           </div>
