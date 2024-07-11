@@ -3,7 +3,7 @@
 
 {"school":"Blanchard Flat School", "image":"Blanchard_Flat.jpg", "pdf":"Blanchard Flat revised Final.pdf", "x":"54", "y":"49"},
 
-{"school":"Burnt Ranch School", "image":"Burnt_Ranch_School.jpg", "pdf":"No Information.pdf", "x":"10", "y":"37"},
+{"school":"Burnt Ranch School", "image":"Burnt_Ranch_School.jpg", "pdf":"Burnt Ranch School District FINAL.pdf", "x":"10", "y":"37"},
 
 {"school":"Canon Creek School", "image":"Canyon_Creek.jpg", "pdf":"Canon Creek School FINAL.pdf", "x":"45", "y":"33"},
 
@@ -41,7 +41,7 @@
 
 {"school":"Hetten Valley School", "image":"Hetten_Valley.png", "pdf":"Hetten Valley School District FINAL.pdf", "x":"19", "y":"74"},
 
-{"school":"Hyampom School", "image":"Hyampom_School.jpg", "pdf":"No Information.pdf", "x":"13", "y":"49"},
+{"school":"Hyampom School", "image":"Hyampom_School.jpg", "pdf":"Hyampom Elementary School District FINAL.pdf", "x":"13", "y":"49"},
 
 {"school":"Indian Creek School", "image":"Indian_Creek.png", "pdf":"Indian Creek School District FINAL.pdf", "x":"58", "y":"46"},
 
@@ -81,9 +81,13 @@
 
 {"school":"Trinity Center School", "image":"Trinity_Center_School.jpg", "pdf":"Trinity Center School District FINAL.pdf", "x":"74", "y":"22"},
 
+{"school": "Trinity High School", "image": "No_Image_Available.jpg", "pdf": "Trinity Co High School FINAL.pdf", "x": "53", "y": "42"},
+
 {"school":"Tule Creek School", "image":"No_Image_Available.jpg", "pdf":"Tule Creek FINAL.pdf", "x":"30", "y":"55"},
 
 {"school":"Van Duzen School", "image":"Van_Duzen.png", "pdf":"Van Duzen FINAL.pdf", "x":"11", "y":"64"},
+
+{"school": "Weaverville Elementary", "image": "No_Image_Available.jpg", "pdf": "Weaverville School District FINAL.pdf", "x": "54", "y": "44"},
 
 {"school":"Wildwood School", "image":"Wildwood.jpg", "pdf":"Wildwood School FINAL.pdf", "x":"46", "y":"64"},
 
