@@ -11,7 +11,7 @@
 
 {"school":"Caution", "image":"Caution.png", "pdf":"Caution School District Final.pdf", "x":"32", "y":"89"},
 
-{"school":"Cinnabar School", "image":"No_Image_Available.jpg", "pdf":"Cinnabar School FINAL.pdf", "x":"74", "y":"20"},
+{"school":"Cinnabar School", "image":"No_Image_Available.jpg", "pdf":"Cinnabar School FINAL.pdf", "x":"80", "y":"14"},
 
 {"school":"Coffee Creek School", "image":"Coffee_Creek.jpg", "pdf":"Coffee Creek School FINAL.pdf", "x":"72", "y":"17"},
 
@@ -65,7 +65,7 @@
 
 {"school":"Minersville School", "image":"Minersville_School.jpg", "pdf":"Minersville School District FINAL.pdf", "x":"64", "y":"32"},
 
-{"school":"North Fork School District", "image":"No_Image_Available.jpg", "pdf":"North Fork School District FINAL.pdf", "x":"36", "y":"38"},
+{"school":"North Fork School District", "image":"North_Fork.jpg", "pdf":"North Fork School District FINAL.pdf", "x":"36", "y":"38"},
 
 {"school":"Oregon Gulch School District", "image":"No_Image_Available.jpg", "pdf":"Oregon Gulch School District FINAL.pdf", "x":"47", "y":"43"},
 
@@ -83,7 +83,7 @@
 
 {"school":"Salt Creek School", "image":"Salt_Creek.png", "pdf":"Salt Creek School District FINAL.pdf", "x":"37", "y":"59"},
 
-{"school":"Salyer School", "image":"No_Image_Available.jpg", "pdf":"Salyer School FINAL.pdf", "x":"2", "y":"29"},
+{"school":"Salyer School", "image":"Salyer.jpg", "pdf":"Salyer School FINAL.pdf", "x":"2", "y":"29"},
 
 {"school":"Seven Cedars School", "image":"Seven_Cedars.png", "pdf":"Seven Cedars School FINAL.pdf", "x":"11", "y":"80"},
 
