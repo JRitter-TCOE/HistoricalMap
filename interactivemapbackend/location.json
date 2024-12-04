@@ -11,6 +11,8 @@
 
 {"school":"Caution", "image":"Caution.png", "pdf":"Caution School District Final.pdf", "x":"32", "y":"89"},
 
+{"school":"Cinnabar School", "image":"No_Image_Available.jpg", "pdf":"Cinnabar School FINAL.pdf", "x":"74", "y":"20"},
+
 {"school":"Coffee Creek School", "image":"Coffee_Creek.jpg", "pdf":"Coffee Creek School FINAL.pdf", "x":"72", "y":"17"},
 
 {"school":"Covington Mill", "image":"Covington Mill.png", "pdf":"Covington School Final.pdf", "x":"67", "y":"28"},
@@ -26,6 +28,8 @@
 {"school":"Douglas City School", "image":"Douglas_City_School.jpg", "pdf":"Douglas City School District.pdf", "x":"53", "y":"46"},
 
 {"school":"Forest School", "image":"Forest_School.png", "pdf":"Forest School District.pdf", "x":"4", "y":"31"},
+
+{"school":"Forest Glenn School", "image":"No_Image_Available.jpg", "pdf":"Forest Glenn FINAL.pdf", "x":"25", "y":"65"},
 
 {"school":"Grass Valley School", "image":"Grass_Valley.jpg", "pdf":"Grass Valley School District Final.pdf", "x":"64", "y":"45"},
 
@@ -61,9 +65,15 @@
 
 {"school":"Minersville School", "image":"Minersville_School.jpg", "pdf":"Minersville School District FINAL.pdf", "x":"64", "y":"32"},
 
+{"school":"North Fork School District", "image":"No_Image_Available.jpg", "pdf":"North Fork School District FINAL.pdf", "x":"36", "y":"38"},
+
+{"school":"Oregon Gulch School District", "image":"No_Image_Available.jpg", "pdf":"Oregon Gulch School District FINAL.pdf", "x":"47", "y":"43"},
+
 {"school":"Peak School", "image":"Peak.png", "pdf":"Peak School District FINAL.pdf", "x":"8", "y":"80"},
 
 {"school":"Pinkham School", "image":"Pinkham.png", "pdf":"Pinkham School FINAL.pdf", "x":"65", "y":"15"},
+
+{"school":"Quimby School District", "image":"No_Image_Available.jpg", "pdf":"Quimby School District FINAL.pdf", "x":"24", "y":"20"},
 
 {"school":"Red Hill School District", "image":"Red Hill.png", "pdf":"Red Hill School District FINAL.pdf", "x":"44", "y":"40"},
 
@@ -73,15 +83,19 @@
 
 {"school":"Salt Creek School", "image":"Salt_Creek.png", "pdf":"Salt Creek School District FINAL.pdf", "x":"37", "y":"59"},
 
+{"school":"Salyer School", "image":"No_Image_Available.jpg", "pdf":"Salyer School FINAL.pdf", "x":"2", "y":"29"},
+
 {"school":"Seven Cedars School", "image":"Seven_Cedars.png", "pdf":"Seven Cedars School FINAL.pdf", "x":"11", "y":"80"},
 
 {"school":"Southern Trinity High School", "image":"Southern_Trinity_High.png", "pdf":"Southern Trinity High School FINAL.pdf", "x":"12", "y":"63"},
 
 {"school":"Stringtown School", "image":"Stringtown.jpg", "pdf":"Stringtown School revised FINAL.pdf", "x":"75", "y":"20"},
 
+{"school":"Stoddard Ranch School", "image":"No_Image_Available.jpg", "pdf":"Stoddard Ranch SchoolFINAL.pdf", "x":"74", "y":"15"},
+
 {"school":"Trinity Center School", "image":"Trinity_Center_School.jpg", "pdf":"Trinity Center School District FINAL.pdf", "x":"74", "y":"22"},
 
-{"school": "Trinity High School", "image": "Trinity High.png", "pdf": "Trinity Co High School FINAL.pdf", "x": "53", "y": "42"},
+{"school": "Trinity County High School", "image": "Trinity High.png", "pdf": "Trinity Co High School FINAL.pdf", "x": "53", "y": "42"},
 
 {"school":"Tule Creek School", "image":"No_Image_Available.jpg", "pdf":"Tule Creek FINAL.pdf", "x":"30", "y":"55"},
 
